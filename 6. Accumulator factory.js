@@ -1,0 +1,1 @@
+var accumulator = sum => (n => sum += n)
